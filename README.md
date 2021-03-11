@@ -1,0 +1,2 @@
+# locoresource
+resource cdn
